@@ -1,4 +1,4 @@
-# Threshold Cipher Challenge Writeup
+# Shamir's Secret Sharing
 
 ## Challenge Overview
 This challenge involves recovering 5 shares from different file formats and using threshold cryptography (specifically Shamir's Secret Sharing) to reconstruct an AES key for decrypting a vault file.
